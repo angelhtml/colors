@@ -12,7 +12,7 @@
 <a href="https://angelhtml.github.io/colors/">https://angelhtml.github.io/colors/</a><br />
 <p></p>
 <p align="center">
-  <a href="https://angelhtml.github.io/colors/"><img src="https://img.shields.io/badge/palette-v1.0.0-green"/></a>
+  <a href="https://angelhtml.github.io/colors/"><img src="https://img.shields.io/badge/palette-v1.1.0-green"/></a>
 </p>
 <p align="center">
 <a href="https://angelhtml.github.io/colors/"><img src="https://iili.io/5b4K7a.md.png" alt="5b4K7a.md.png" border="0"></a><br />
