@@ -4,7 +4,7 @@
   <a href="https://angelhtml.github.io/colors/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
   <a href="https://angelhtml.github.io/colors/"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 </p>
-<p>You can choose the best color combination for your website using our color palette tool</p><br />
+<p>You can choose the best color combination for your website using our color palette tool</p><br /> 
 <p>📌Has 50 palettes with various colors (v1.0.0) for any type of website you want</p><br/>
 <h2>🛠Last update</h2>
 <p>📌new UI added</p>
